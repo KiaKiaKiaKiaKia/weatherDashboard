@@ -9,3 +9,4 @@ Weather dashboard CLI program to learn API's using weatherAPI.
 # To do:
 - Weekly forcast
 - Prettier GUI (screen clearing, colours, ...)
+- Save favourite cities to json file
