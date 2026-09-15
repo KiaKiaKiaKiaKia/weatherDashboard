@@ -1,5 +1,5 @@
 # Overview
-Weather dashboard CLI program to learn API's. Still in progress.
+Weather dashboard CLI program to learn API's using weatherAPI.
 
 # What I have learnt:
 - calling an API
@@ -7,8 +7,5 @@ Weather dashboard CLI program to learn API's. Still in progress.
 - keeping API key safe
 
 # To do:
-- CLI menu using questionary
-- User can search a city and day to view weather of
-- Choose between celcius/ farenheit and mph / kph
-- Favourite locations
 - Weekly forcast
+- Prettier GUI (screen clearing, colours, ...)
