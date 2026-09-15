@@ -3,7 +3,7 @@ import requests
 
 BASE_URL = 'https://api.weatherapi.com/v1/current.json?'
 API_KEY = open('api_key.txt', 'r').read()
-CITY = 'London'
+CITY = input('Enter a city to check the weather: ')
 
 url = BASE_URL + 'key=' + API_KEY + '&q=' + CITY
 response = requests.get(url).json()
