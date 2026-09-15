@@ -1,0 +1,23 @@
+[33mcommit ff16c0c2bb699d3e404ae8e582a285121af8e590[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32madd-menu[m[33m)[m
+Author: Zara K <zarakeyani@gmail.com>
+Date:   Tue Sep 15 19:10:25 2026 +0100
+
+    Added user input for city
+
+[33mcommit 25d719af9b1cce81baea14929eed3516ce3c6237[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Zara K <zarakeyani@gmail.com>
+Date:   Mon Sep 14 16:11:21 2026 +0100
+
+    Stop tracking API key
+
+[33mcommit 6d955d64d7796d901cafc9135cb9bf0c119ee3bf[m
+Author: Zara K <zarakeyani@gmail.com>
+Date:   Mon Sep 14 16:06:52 2026 +0100
+
+    Added basic WeatherAPI call and response
+
+[33mcommit 289ca70aff535aed10dbfd3fd684673ac52f69cf[m
+Author: Zara Keyani <155911735+KiaKiaKiaKiaKia@users.noreply.github.com>
+Date:   Mon Sep 14 14:30:38 2026 +0100
+
+    Initial commit
