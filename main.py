@@ -90,5 +90,4 @@ def removeFaveCity():
     favouriteCities.remove(cityChoice)
     print(f'Removed {cityChoice} from favourites.')
 
-
 menu()
